@@ -1,0 +1,15 @@
+body{
+  background-color: #e6e6e6;
+}
+
+.oma-header{
+  background-color: #4691aa;
+}
+
+.oma-kuva{
+  width: 10vw;
+  height: 10vw;
+  position: absolute;
+  right: 10px;
+  top: 10px;
+}

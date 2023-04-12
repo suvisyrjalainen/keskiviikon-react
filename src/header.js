@@ -5,7 +5,6 @@ function Header() {
     <div class="p-5 oma-header text-white rounded">
       <h1>Keskiviikon Portfolio</h1>
       <p>Suvi Syrjäläinen</p>
-      <Omakuva/>
     </div>);
 }
 

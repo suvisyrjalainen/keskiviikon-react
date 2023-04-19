@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/keskiviikon-react/static/css/main.4c29a7c6.css",
+    "main.js": "/keskiviikon-react/static/js/main.2d726609.js",
+    "index.html": "/keskiviikon-react/index.html",
+    "main.4c29a7c6.css.map": "/keskiviikon-react/static/css/main.4c29a7c6.css.map",
+    "main.2d726609.js.map": "/keskiviikon-react/static/js/main.2d726609.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4c29a7c6.css",
+    "static/js/main.2d726609.js"
+  ]
+}

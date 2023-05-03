@@ -16,10 +16,10 @@ const myPage = <div>
 <Header/>
 <BrowserRouter>
   <Routes>
-    <Route path="/" element={<Layout />}>
-      <Route index element={<Portfolio />} />
-      <Route path="cv" element={<CV />} />
-      <Route path="contact" element={<Contact />} />
+    <Route path="/keskiviikon-react" element={<Layout />}>
+      <Route path="/keskiviikon-react" element={<Portfolio />} />
+      <Route path="/keskiviikon-react/cv" element={<CV />} />
+      <Route path="/keskiviikon-react/contact" element={<Contact />} />
       <Route path="*" element={<NoPage />} />
     </Route>
   </Routes>

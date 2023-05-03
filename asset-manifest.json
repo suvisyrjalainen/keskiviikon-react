@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/keskiviikon-react/static/css/main.4c29a7c6.css",
-    "main.js": "/keskiviikon-react/static/js/main.0b25d55e.js",
+    "main.js": "/keskiviikon-react/static/js/main.fd7c7a19.js",
     "index.html": "/keskiviikon-react/index.html",
     "main.4c29a7c6.css.map": "/keskiviikon-react/static/css/main.4c29a7c6.css.map",
-    "main.0b25d55e.js.map": "/keskiviikon-react/static/js/main.0b25d55e.js.map"
+    "main.fd7c7a19.js.map": "/keskiviikon-react/static/js/main.fd7c7a19.js.map"
   },
   "entrypoints": [
     "static/css/main.4c29a7c6.css",
-    "static/js/main.0b25d55e.js"
+    "static/js/main.fd7c7a19.js"
   ]
 }
